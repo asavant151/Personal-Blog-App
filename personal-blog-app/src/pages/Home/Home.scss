@@ -1,0 +1,38 @@
+.blog-section {
+  margin-top: 60px;
+  .card {
+    border: none;
+
+    .card-image {
+      border-radius: 50%;
+    }
+    .authore-name {
+      font-size: 15px;
+      font-weight: 600;
+      margin-left: 10px;
+    }
+    .card-title {
+      font-size: 24px;
+      font-weight: 700;
+      max-height: 90px;
+      display: -webkit-box;
+      -webkit-line-clamp: 3;
+      text-overflow: ellipsis;
+      color: #242424;
+      padding-top: 14px;
+      margin: 0;
+    }
+    .card-sub-title {
+      font-size: 16px;
+      line-height: 20px;
+      font-weight: 400;
+      color: rgb(107, 107, 107);
+      -webkit-line-clamp: 2;
+      max-height: 40px;
+      display: -webkit-box;
+      text-overflow: ellipsis;
+      padding-top: 14px;
+      margin: 0;
+    }
+  }
+}

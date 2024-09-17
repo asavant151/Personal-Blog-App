@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "id": "e200",
+      "username": "savan",
+      "email": "asavant151@gmail.com",
+      "password": "savan@1234"
+    }
+  ],
+  "blogs": [
+    {
+      "title": "Reading Blog",
+      "author": "Savan",
+      "content": "<p><strong>have an unfinished essay</strong>&nbsp;in my drafts folder called “Quitting is Underrated.” It’s been there since 2017. You can bet your ass I’m never completing it. Hold up a second while I delete it … because&nbsp;<em>this</em>&nbsp;is that essay’s ultimate form.</p><p>Today, we’re going to talk about giving up. Every day, we’re inundated with tales of people in films or on the news who gave it their all, never gave in, kept showing up, and persevered in the face of unimaginable rejection. I’m here to tell you that&nbsp;<em>they’re exceptions rather than the rule, and if you strive to be one of those people, you’ll probably be wasting your time.</em></p><p>I hate to be the one to spill apple juice in your single-malt, but they’re not making a biopic about you, you don’t have a cheering section, and the news crew ain’t knocking on your door.</p><p>Your current crush won’t be your soulmate. You’re not repeatedly betting the house on green and coming away with fat stacks of cheddar. Your life will likely reside in the fat part of the great bell curve of human potential. I’m not saying that’s what you aim for. I’m managing your expectations.</p><p>However, you&nbsp;<em>might</em>&nbsp;be capable of rising to the top quintile in most of the key areas of life that matter: health, love, impact, wisdom, wealth, joy, and your vocation. You take care of that, and you’ll probably be&nbsp;<em>just fine</em>. I know a lot of folks who are earning solid B-plusses in everything.</p><p>The B-plusses are my brand of human. They’re content, witty, kind, and making a difference. Most of the folks I know who are at the very pinnacle in a select few areas, or pushing maniacally for perfect scores, are secretly miserable, sociopathic, or severely lacking in other key areas.</p><p>Why?</p><p>Well, let’s set aside the elephant-in-the-room answers of privilege or trauma for now (because that explains 95% of them).</p><p>Folks who aim for the stars tend to make life harder than it needs to be, stack their decks against them, and hold themselves to militant standards no mortal can reach. You kittens don’t need to do that. Your life’s not a GaryVee video. It’s C-SPAN IRL. Go easy on yourself.</p>",
+      "authorImage": "blob:http://localhost:5174/d5c5322f-9a1e-4d50-af0f-1e9681511dcb",
+      "blogImage": "blob:http://localhost:5174/d5503471-d0a8-4cf7-9ac3-d834c626ef07",
+      "id": "1726600674895"
+    }
+  ]
+}

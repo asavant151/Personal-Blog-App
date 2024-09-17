@@ -1,0 +1,24 @@
+.login-section {
+  background: #ececec;
+}
+
+.box-area {
+  width: 930px;
+}
+
+.right-box {
+  padding: 40px 30px 40px 40px;
+}
+
+@media only screen and (max-width: 768px) {
+  .box-area {
+    margin: 0 10px;
+  }
+  .left-box {
+    height: 100px;
+    overflow: hidden;
+  }
+  .right-box {
+    padding: 20px;
+  }
+}

@@ -1,0 +1,35 @@
+.blog-editor-container {
+  padding: 20px;
+
+  .card {
+    border-radius: 10px;
+    overflow: hidden;
+  }
+
+  .card-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+  }
+
+  .card-body {
+    padding: 20px;
+  }
+
+  .react-quill {
+    min-height: 300px;
+  }
+
+  .btn-success {
+    background-color: #28a745;
+    border-color: #28a745;
+    padding: 10px 20px;
+    &:hover {
+      background-color: #218838;
+      border-color: #1e7e34;
+    }
+  }
+}
