@@ -35,13 +35,9 @@ Ensure you have the following installed on your machine:
 
 3. **Install the dependencies:**  
 
-    npm install
-    # or
-    yarn install
+    npm install or yarn install
 
 4. **Running the Project:**  
 
-    npm start
-    # or
-    yarn start
+    npm start or yarn start
 
