@@ -95,9 +95,6 @@ const EditBlog = () => {
                   type="file"
                   onChange={handleAuthorImageUpload}
                 />
-                {authorImage && (
-                  <img src={authorImage} alt="Author" width={100} />
-                )}
 
                 {/* Upload Blog Image */}
                 <label className="form-label">Upload Blog Image</label>
@@ -106,7 +103,6 @@ const EditBlog = () => {
                   type="file"
                   onChange={handleBlogImageUpload}
                 />
-                {blogImage && <img src={blogImage} alt="Blog" width={200} />}
 
                 <ReactQuill
                   value={content}

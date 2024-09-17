@@ -37,7 +37,11 @@ Ensure you have the following installed on your machine:
 
     npm install or yarn install
 
-4. **Running the Project:**  
+4. **Running the Json Server:**
+
+    npm run server
+
+5. **Running the Project:**  
 
     npm start or yarn start
 

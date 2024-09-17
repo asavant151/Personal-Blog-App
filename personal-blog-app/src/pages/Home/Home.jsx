@@ -31,7 +31,7 @@ const Home = () => {
   return (
     <section className="position-relative blog-section">
       <div className="container">
-        {blogs.map((blog) => (
+        {blogs?.map((blog) => (
           <div className="card mb-3" key={blog.id}>
             <div className="row align-items-center">
               <div className="col-md-6 col-12">

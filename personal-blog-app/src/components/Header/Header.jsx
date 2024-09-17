@@ -40,7 +40,7 @@ const Header = () => {
               <span className="navbar-toggler-icon" />
             </button>
             <div
-              className="collapse navbar-collapse"
+              className="collapse navbar-collapse mt-lg-0 mt-4"
               id="navbarSupportedContent"
             >
               <form method="get" className="d-flex" role="search">
@@ -72,10 +72,10 @@ const Header = () => {
                   </div>
                 </div>
               </form>
-              <ul className="navbar-nav ms-auto mb-2 mb-lg-0 align-items-center">
+              <ul className="navbar-nav ms-auto mb-2 mb-lg-0 align-items-lg-center">
                 {isLoggedIn ? (
                   <>
-                    <Link to={"/create-blog"} className="d-flex align-items-center me-4 text-black">
+                    <Link to={"/create-blog"} className="d-flex align-items-center me-4 my-lg-0 my-3 text-black">
                       <svg
                         xmlns="http://www.w3.org/2000/svg"
                         width={24}
